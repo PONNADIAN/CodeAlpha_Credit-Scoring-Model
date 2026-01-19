@@ -33,9 +33,9 @@ To build a robust credit scoring system that can predict whether an individual i
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |-------|----------|-----------|--------|----------|---------|
-| Logistic Regression | 0.49 | 0.50 | 0.58 | 0.54 | 0.46 |
+| Logistic Regression | 0.50 | 0.51 | 0.48 | 0.49 | 0.46 |
 | Decision Tree | 0.53 | 0.53 | 0.65 | 0.58 | 0.53 |
-| **Random Forest** | **0.54** | **0.55** | **0.53** | **0.54** | **0.55** |
+| **Random Forest** | **0.56** | **0.56** | **0.58** | **0.57** | **0.57** |
 
 > **Note**: The Random Forest model showed the best overall performance with balanced metrics.
 
